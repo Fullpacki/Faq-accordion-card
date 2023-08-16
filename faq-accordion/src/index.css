@@ -8,15 +8,15 @@
 body {
     display: flex;
     justify-content: center;
-    margin-top: 6em;
     min-height: 100vh;
     background-color: #fafafa;
     font-family: "Poppins";
 }
 
- @media screen and (min-width: 1440px) {
+ @media screen and (min-width: 1280px) {
 
     body {
         overflow-y: hidden;
+        margin-top: 6em;
     }
  }
