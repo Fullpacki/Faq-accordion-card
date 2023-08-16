@@ -22,7 +22,7 @@ function Faq() {
       {/* Header content */}
 
       {/* Card content */}
-      <div className="flex flex-col xl:flex-row justify-center items-center gap-6 mt-5 xl:gap-8">
+      <div className="flex flex-col xl:flex-row justify-center items-center gap-6 mt-16 xl:mt-5 xl:gap-8">
         {/* Card */}
         <div className="flex flex-col justify-between p-6 gap-6 bg-white rounded-xl relative shadow-xl border-t-[0.4em] border-[#9dd8d7] xl:max-w-xs xl:min-h-[15em]">
           <div className="flex flex-col gap-2">
